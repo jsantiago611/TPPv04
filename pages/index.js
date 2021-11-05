@@ -1,5 +1,4 @@
 import Link from '@/components/Link'
-import Hero from '@/components/Hero'
 import { PageSEO } from '@/components/SEO'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
