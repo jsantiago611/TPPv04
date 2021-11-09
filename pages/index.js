@@ -21,19 +21,19 @@ export default function Home({ posts }) {
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="pt-6 pb-8 space-y-2 md:space-y-5">
-          <h1 class="py-14 text-[23vw] sm:text-10xl leading-none select-none tracking-tightest font-extrabold text-center">
-            <span class="relative block">
-              <span class="px-2">
+          <h1 className="py-14 text-[23vw] sm:text-10xl leading-none select-none tracking-tightest font-extrabold text-center">
+            <span className="relative block">
+              <span className="px-2">
                 Develop.
               </span>
             </span>
-            <span class="relative block">
-              <span class="px-2">
+            <span className="relative block">
+              <span className="px-2">
                 Preview.
               </span>
             </span>
-            <span class="relative block">
-              <span class="px-2">
+            <span className="relative block">
+              <span className="px-2">
                 Ship.
               </span>
             </span>
