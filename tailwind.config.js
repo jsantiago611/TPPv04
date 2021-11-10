@@ -24,12 +24,13 @@ module.exports = {
         gray: colors.trueGray,
       },
       gradientColorStops: {
-        'gradient-1-start': '#007CF0',
-        'gradient-1-end': '#00DFD8',
-        'gradient-2-start': '#7928CA',
-        'gradient-2-end': '#FF0080',
-        'gradient-3-start': '#FF4D4D',
-        'gradient-3-end': '#F9CB28',
+        // https://coolors.co/2d00f7-6a00f4-8900f2-a100f2-b100e8-bc00dd-d100d1-db00b6-e500a4-f20089
+        "gradient-1-start": "#F20089",
+        "gradient-1-end": "#D100D1",
+        "gradient-2-start": "#D100D1",
+        "gradient-2-end": "#A100F2",
+        "gradient-3-start": "#A100F2",
+        "gradient-3-end": "#2D00F7",
       },
       typography: (theme) => ({
         DEFAULT: {
