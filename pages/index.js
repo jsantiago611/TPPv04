@@ -21,7 +21,7 @@ export default function Home({ posts }) {
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="pt-6 pb-8 space-y-2 md:space-y-5">
-          <h1 className="py-14 text-[23vw] sm:text-10xl leading-none select-none tracking-tightest font-extrabold text-center">
+          <h1 className="my-28 sm:my-10 text-center select-none text-6xl sm:text-8.5xl leading-none tracking-tightest font-extrabold">
             <span className="relative block">
               <span className="px-2">The</span>
             </span>
