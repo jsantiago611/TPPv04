@@ -25,7 +25,7 @@ export default function Home({ posts }) {
             <span
               data-content="The"
               className="relative block before:content-[attr(data-content)] before:w-full before:z-0 before:block before:absolute before:top-0 before:bottom-0 before:left-0 before:text-center before:text-black"
-              <span className="px-2 text-transparent bg-clip-text bg-gradient-to-br from-gradient-1-start to-gradient-1-end">
+              <span className="px-2 text-transparent bg-clip-text bg-gradient-to-br">
                 The
               </span>
             </span>
