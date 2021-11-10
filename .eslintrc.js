@@ -9,12 +9,10 @@ module.exports = {
   extends: [
     'eslint:recommended',
     'plugin:jsx-a11y/recommended',
-    'plugin:prettier/recommended',
     'next',
     'next/core-web-vitals',
   ],
   rules: {
-    'prettier/prettier': 'error',
     'react/react-in-jsx-scope': 'off',
     'jsx-a11y/anchor-is-valid': [
       'error',
