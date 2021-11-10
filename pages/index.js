@@ -23,18 +23,13 @@ export default function Home({ posts }) {
         <div className="pt-6 pb-8 space-y-2 md:space-y-5">
           <h1 className="py-14 text-[23vw] sm:text-10xl leading-none select-none tracking-tightest font-extrabold text-center">
             <span className="relative block">
-              <span className="px-2">
-                `The`
-              </span>
+              <span className="px-2">The</span>
             </span>
             <span className="relative block">
-              <span className="px-2">
-                `Parent's`
-              </span>
+              <span className="px-2">Parent's</span>
             </span>
             <span className="relative block">
-              <span className="px-2">
-                `Progress`
+              <span className="px-2">Progress
               </span>
             </span>
           </h1>          
