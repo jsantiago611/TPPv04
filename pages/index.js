@@ -24,17 +24,17 @@ export default function Home({ posts }) {
           <h1 className="py-14 text-[23vw] sm:text-10xl leading-none select-none tracking-tightest font-extrabold text-center">
             <span className="relative block">
               <span className="px-2">
-                Develop.
+                `The`
               </span>
             </span>
             <span className="relative block">
               <span className="px-2">
-                Preview.
+                `Parent's`
               </span>
             </span>
             <span className="relative block">
               <span className="px-2">
-                Ship.
+                `Progress`
               </span>
             </span>
           </h1>
