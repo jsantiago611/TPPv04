@@ -24,7 +24,7 @@ export default function Home({ posts }) {
           <h1 className="py-14 text-[23vw] text-center sm:text-9xl leading-none select-none tracking-tightest font-extrabold">
             <span
               data-content="The"
-              className="relative block before:content-[attr(data-content)] before:w-full before:z-0 before:block before:absolute before:top-0 before:bottom-0 before:left-0 before:text-center before:text-black"
+              className="relative block before:content-[attr(data-content)] before:w-full before:z-0 before:block before:absolute before:top-0 before:bottom-0 before:left-0 before:text-center"
               <span className="px-2 text-transparent bg-clip-text bg-gradient-to-br">
                 The
               </span>
